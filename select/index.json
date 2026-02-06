@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "GOOD NIGHT BABY",
+  "base_artist": "aimyon",
+  "createdAt": "2026-02-06T08:01:39.442158Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Night, Baby",
+      "artist": "Van McCoy",
+      "has_synced": false,
+      "path": "select/01_Good_Night,_Baby_Van_McCoy.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Night Baby",
+      "artist": "Sam & Dave",
+      "has_synced": false,
+      "path": "select/02_Good_Night_Baby_Sam_&_Dave.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "good night baby",
+      "artist": "犬吠埼紫杏 (CV: 長谷川玲奈) feat. Moe Shop",
+      "has_synced": true,
+      "path": "select/03_good_night_baby_犬吠埼紫杏_(CV__長谷川玲奈)_feat._Moe_Shop.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "good night baby (feat. Moe Shop)",
+      "artist": "犬吠埼紫杏 (CV: 長谷川玲奈)",
+      "has_synced": true,
+      "path": "select/04_good_night_baby_(feat._Moe_Shop)_犬吠埼紫杏_(CV__長谷川玲奈).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "good night baby",
+      "artist": "犬吠埼紫杏 (長谷川玲奈) Feat. Moe Shop",
+      "has_synced": true,
+      "path": "select/05_good_night_baby_犬吠埼紫杏_(長谷川玲奈)_Feat._Moe_Shop.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "good night baby",
+      "artist": "電音部/犬吠埼紫杏 (CV: 長谷川玲奈)/Moe Shop",
+      "has_synced": true,
+      "path": "select/06_good_night_baby_電音部_犬吠埼紫杏_(CV__長谷川玲奈)_Moe_Shop.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Night Baby",
+      "artist": "Rachel Coleman",
+      "has_synced": false,
+      "path": "select/07_Good_Night_Baby_Rachel_Coleman.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "good night baby [instrumental]",
+      "artist": "犬吠埼紫杏 (長谷川玲奈) Feat. Moe Shop",
+      "has_synced": true,
+      "path": "select/08_good_night_baby_[instrumental]_犬吠埼紫杏_(長谷川玲奈)_Feat._Moe_Shop.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "GOOD NIGHT BABY",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/09_GOOD_NIGHT_BABY_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "GOOD NIGHT BABY",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/10_GOOD_NIGHT_BABY_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good_Night_Baby",
+      "artist": "Brenton_Wood",
+      "has_synced": true,
+      "path": "select/11_Good_Night_Baby_Brenton_Wood.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Night Baby",
+      "artist": "Brenton Wood",
+      "has_synced": true,
+      "path": "select/12_Good_Night_Baby_Brenton_Wood.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Good_Night_Baby",
+      "artist": "Sam_and_Dave",
+      "has_synced": true,
+      "path": "select/13_Good_Night_Baby_Sam_and_Dave.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Night Baby",
+      "artist": "Sam & Dave",
+      "has_synced": true,
+      "path": "select/14_Good_Night_Baby_Sam_&_Dave.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "good night baby",
+      "artist": "電音部",
+      "has_synced": true,
+      "path": "select/15_good_night_baby_電音部.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "GOOD NIGHT BABY - Live in Hanshin Koshien Stadium, 2022.11.05",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/16_GOOD_NIGHT_BABY_-_Live_in_Hanshin_Koshien_Stadium,_2022.11.05_Aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOOD NIGHT BABY",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_GOOD_NIGHT_BABY_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "GOOD NIGHT BABY",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_02_GOOD_NIGHT_BABY_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "GOOD NIGHT BABY",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_03_GOOD_NIGHT_BABY_あいみょん.txt"
+    }
+  ]
+}
